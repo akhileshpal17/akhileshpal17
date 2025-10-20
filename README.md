@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Akhilesh Pal
 
-<!--
-**akhileshpal17/akhileshpal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **AI/ML Engineer | Software Engineer | Research Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+
+**Programming Languages:**  
+C++, Python, Java, SQL  
+
+**Frameworks & Libraries:**  
+Spring Boot, Flask, Django, React, Angular, LangChain  
+
+**AI/ML & GenAI:**  
+scikit-learn, PyTorch, TensorFlow, FAISS, RAG Pipelines, Prompt Engineering  
+
+**Databases:**  
+MySQL, PostgreSQL, ChromaDB  
+
+**Tools & Platforms:**  
+Git, GitHub, Docker  
+
+**Operating Systems:**  
+Linux, Windows  
+
+---
+
+## 📚 Publications
+
+**Feature Model Based Integration of Machine Learning in Software Product Lines**  
+*IEEE ICSA 2024*  
+🔗 [View Paper](https://ieeexplore.ieee.org/document/10628165)
+---
+## 📫 Connect With Me
+
+- 🌐 [LinkedIn](https://linkedin.com/in/akhilesh-pal-9a5063242)  
+- ✉️ [Email](mailto:akhileshpaul97@gmail.com)
+
+---
+
+⭐ *Turning ideas into intelligent systems — one model and one line of code at a time.*
