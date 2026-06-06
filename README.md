@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Akhilesh Pal
+# Hi, I'm Akhilesh Pal
 
 💻 **AI/ML Engineer | Software Engineer | Research Enthusiast**
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Programming Languages:**  
 C++, Python, Java, SQL  
 
 **Frameworks & Libraries:**  
-Spring Boot, Flask, Django, React, Angular, LangChain  
+Spring Boot, Flask, Django, React, Angular, LangChain, Langgraph, FastAPI
 
 **AI/ML & GenAI:**  
-scikit-learn, PyTorch, TensorFlow, FAISS, RAG Pipelines, Prompt Engineering  
+scikit-learn, PyTorch, TensorFlow, FAISS, RAG Pipelines, Prompt Engineering, Agnets
 
 **Databases:**  
 MySQL, PostgreSQL, ChromaDB  
@@ -26,7 +26,7 @@ Linux, Windows
 
 ---
 
-## 📚 Publications
+##  Publications
 
 **Feature Model Based Integration of Machine Learning in Software Product Lines**  
 *IEEE ICSA 2024*  
@@ -39,4 +39,4 @@ Linux, Windows
 
 ---
 
-⭐ *Turning ideas into intelligent systems — one model and one line of code at a time.*
+*Turning ideas into intelligent systems — one model and one line of code at a time.*
