@@ -13,7 +13,7 @@ C++, Python, Java, SQL
 Spring Boot, Flask, Django, React, Angular, LangChain, Langgraph, FastAPI
 
 **AI/ML & GenAI:**  
-scikit-learn, PyTorch, TensorFlow, FAISS, RAG Pipelines, Prompt Engineering, Agnets
+scikit-learn, PyTorch, TensorFlow, FAISS, RAG Pipelines, Prompt Engineering, Agents
 
 **Databases:**  
 MySQL, PostgreSQL, ChromaDB  
