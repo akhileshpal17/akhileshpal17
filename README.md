@@ -1,6 +1,6 @@
 # Hi, I'm Akhilesh Pal
 
-💻 **AI/ML Engineer | Software Engineer | Research Enthusiast**
+💻 ** AI/ML Engineer | Software Engineer | Research Enthusiast **
 
 ---
 
@@ -32,11 +32,8 @@ Linux, Windows
 *IEEE ICSA 2024*  
 🔗 [View Paper](https://ieeexplore.ieee.org/document/10628165)
 ---
-## 📫 Connect With Me
-
-- 🌐 [LinkedIn](https://linkedin.com/in/akhilesh-pal-9a5063242)  
-- ✉️ [Email](mailto:akhileshpaul97@gmail.com)
-
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/akhilesh-pal-9a5063242)  
 ---
 
-*Turning ideas into intelligent systems — one model and one line of code at a time.*
+
